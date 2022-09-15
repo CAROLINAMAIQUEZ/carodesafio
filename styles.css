@@ -176,6 +176,8 @@ a{
     text-shadow: black 6px 6px 8px;
 
 }
+
+
 .areas{
     display: inline-block;
     font-family: sans-serif;
@@ -187,7 +189,18 @@ a{
     border-radius: 60px;
     text-shadow: black 6px 6px 8px;  
 }
-
+.alert{
+    font-family: 'Segoe UI';
+    justify-content: center;
+    background-color: rgb(248, 248, 109);
+    text-align:center;
+}
+.pilar{
+    font-family: 'Segoe UI';
+    justify-content: center;
+    background-color: rgb(248, 248, 109);
+    text-align:center;
+}
 .tabla{
     display: flex;
     font-family: 'Segoe UI';
